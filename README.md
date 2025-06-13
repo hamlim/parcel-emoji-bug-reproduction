@@ -12,3 +12,7 @@ Get started with:
 ## Bug:
 
 Emoji (e.g. 👋) render incorrectly (`ðŸ‘‹`)
+
+### Fix:
+
+Add `<meta charSet="utf-8" />` to correctly handle the encoding!
