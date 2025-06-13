@@ -1,5 +1,5 @@
 {
-  "name": "parcel-rsc-template",
+  "name": "parcel-emoji-bug-reproduction",
   "$schema": "./node_modules/wrangler/config-schema.json",
   "compatibility_date": "2025-04-16",
   // Enable Node.js compatibility so that AsyncLocalStorage works.
