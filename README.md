@@ -1,4 +1,4 @@
-# Parcel RSC Template App
+# Parcel Emoji Bug Reproduction
 
 Things to change after using this template:
 
